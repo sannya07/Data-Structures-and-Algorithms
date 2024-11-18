@@ -6,3 +6,5 @@ In subsequence problems, we often use backtracking by either including or exclud
 Combinations:
 Combinations are similar to subsequences but with a key difference: in combinations, we can allow duplicate elements to appear more than once. This requires a slight modification to the backtracking process where we need to control element repetition when generating combinations.
 
+Graphs:
+- Input: We can take input by using adjacencyList(Graphs_02) and adjacencyMatrix(Graphs_01).
