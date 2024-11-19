@@ -8,3 +8,4 @@ Combinations are similar to subsequences but with a key difference: in combinati
 
 Graphs:
 - Input: We can take input by using adjacencyList(Graphs_02) and adjacencyMatrix(Graphs_01).
+- Traversals: There are 2 ways a graph can be traversed (1) BreadthFirstSearch(BFS.java) (2) DepthFirstSearch(DFS.java)
