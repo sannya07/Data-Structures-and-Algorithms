@@ -11,6 +11,6 @@ Combinations are similar to subsequences but with a key difference: in combinati
   - Traversals: There are 2 ways in which a graph can be traversed (1) BreadthFirstSearch(BFS.java) (2)     DepthFirstSearch(DFS.java)
   - Number of provinces: We used the approach of traversals, Each time you start a DFS/BFS from an unvisited   node, it indicates that you have found a new connected component (province). You increment the province count each time this happens. This is also a leetcode question https://leetcode.com/problems/number-of-provinces/description/
 
--DP: Dynamic Programming (DP) is an optimization technique used to solve problems with overlapping subproblems and optimal substructure properties. Instead of solving the same subproblem repeatedly, DP stores the results of subproblems to reuse them, making the algorithm efficient.
+- DP: Dynamic Programming (DP) is an optimization technique used to solve problems with overlapping subproblems and optimal substructure properties. Instead of solving the same subproblem repeatedly, DP stores the results of subproblems to reuse them, making the algorithm efficient.
 
   
