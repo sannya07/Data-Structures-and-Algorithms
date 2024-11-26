@@ -9,3 +9,5 @@ Combinations are similar to subsequences but with a key difference: in combinati
 Graphs:
 - Input: We can take input by using adjacencyList(Graphs_02) and adjacencyMatrix(Graphs_01).
 - Traversals: There are 2 ways in which a graph can be traversed (1) BreadthFirstSearch(BFS.java) (2) DepthFirstSearch(DFS.java)
+- Number of provinces: We used the approach of traversals, Each time you start a DFS/BFS from an unvisited node, it indicates that you have found a new connected component (province). You increment the province count each time this happens. This is also a leetcode question https://leetcode.com/problems/number-of-provinces/description/
+  
